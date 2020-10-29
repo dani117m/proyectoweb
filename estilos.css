@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+section.sliderprincipal{
+    background-color: aqua;
+}
+
+section.servicios{
+    background-color: green;
+}
+
+#centro{
+    width: 400xp;
+    margin: 0xp ;
+    padding: 400xp;
+}
